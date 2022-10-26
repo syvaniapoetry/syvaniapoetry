@@ -4,8 +4,8 @@
    
    
    
-                                      K U M A R I  A S T H A  R A N I ✨
-                      Web Developer | Open Source Enthusiast | Explorer | Buzzing bee
+                                     S Y V A N I A P O E T R Y ✨
+                       Web Developer | Open Source Enthusiast | Fashion Designer 
 
 
 - 🔭 Mentor in an Open Source Contribution Program **GSSoC'22**
@@ -24,7 +24,7 @@
 
 - 💬 Ask me about **C, C++, Git, Github, JAVA**
 
-- 📫 How to reach me **linkedin: https://www.linkedin.com/in/km-astha-rani-552662212/**
+- 📫 How to reach me **linkedin: 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=astha2412&label=Profile%20views&color=0e75b6&style=flat" alt="astha2412" /> </p>
 
